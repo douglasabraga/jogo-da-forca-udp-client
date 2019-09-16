@@ -1,2 +1,2 @@
-# jogo-da-forca-client
+# jogo-da-forca-udp-client
 Cliente do jogo da forca.
